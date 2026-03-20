@@ -22,7 +22,7 @@ Dự án website nhà hàng cao cấp "Nhã Việt" được thiết kế và ph
 * **Fonts & Media:** Times New Roman, Unsplash, Pixabay.
 
 ## 🚀 Demo
-[Link truy cập trang web thực tế] *(Bạn nhớ chèn link GitHub Pages của bạn vào đây nhé)*
+[[Link truy cập trang web thực tế] *(Bạn nhớ chèn link GitHub Pages của bạn vào đây nhé)*](https://nhavietwebsite.netlify.app/)
 
 ---
 *Design by MinhGenzo*
